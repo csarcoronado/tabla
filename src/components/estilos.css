@@ -1,0 +1,193 @@
+
+
+.container {
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.container1{
+    background-color: rgb(255, 255, 255);
+
+    text-align: center;
+    margin:  10px;
+    border-radius: 10px;
+    padding: 0px 0px;
+
+}
+
+.container2{
+    background-color: rgb(255, 255, 255);
+    color: #ffffff;
+    text-align: center;
+    margin:  0px;
+    border-radius: 0px;
+    padding: 0px 0px;
+    
+
+}
+
+.input {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 2;
+    text-align: center;
+    border-radius: 50px;
+    margin-bottom: 0rem;
+    padding: 0rem 0rem;
+    width: 95%;
+}
+
+.button {
+    display: flex;
+    background-color: rgb(84, 170, 84);
+    text-align: left;
+    border: 2;
+    border-radius: 10px;
+    color: white;
+    padding: 0.5rem 2rem;
+    width: fit-content;
+}
+
+.button1 {
+    
+    background-color: rgb(33, 85, 128);
+    text-align: left;
+    border: 2;
+    border-radius: 10px;
+    color: white;
+    padding: 0.5rem 2rem;
+    width: fit-content;
+}
+
+.buttonm {
+    background-color: rgb(17, 142, 251);
+    border: 1;
+    padding: 0;
+
+}
+
+.buttona {
+    background-color: rgb(99, 195, 66);
+    border: 1;
+    padding: 0;
+}
+
+.buttonb {
+    background-color: rgb(210, 85, 77);
+    border: 1;
+    padding: 0;
+}
+.buttong {
+    background-color: rgb(2, 120, 254);
+    border:1;
+    padding:0;
+    text-align: center;
+}
+.inputg{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+    margin: 0;
+    width: 20%;
+}
+
+.th{
+    position: sticky;
+    top: 0px;
+}
+
+.table{
+    width: 100%;
+    max-height: 320px;
+    padding: 0px;
+    margin: 0px 0px;
+    text-align: center;
+    overflow-y: scroll;
+    
+}
+ 
+.table1{
+    width: 100%;
+    max-height: 320px;
+    padding: 0px;
+    margin: 0px 0px;
+    text-align: center;
+}
+
+.containerc {
+    text-align: center;
+}
+
+.buttone {
+    background-color: red;
+    border: 0;
+    margin: 7%;
+    color: #ffffff;
+}
+
+.buttond {
+    background-color: rgb(0, 84, 157);
+    border: 1;
+    padding: 0%;
+    text-align: right;
+}
+
+.buttonca {
+    
+        background-color: rgb(13, 167, 239);
+        border: 1%;
+        padding: 1%;
+        margin:1%;
+        color: black;
+        
+    
+}
+.buttoncas {
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    width: 30%;
+}
+
+.buttoncast {
+    
+    background-color: rgb(239, 13, 13);
+    border: 0%;
+    padding: 0%;
+    margin:0%;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+.checkbox{
+    display:inline-table;
+    align-items: center;
+    width: auto;
+    color: #ffffff;
+}
+
+.icon1{
+    cursor: pointer;
+    font-size: 20px;
+    color:blue;
+}
+
+.icon2{
+    font-size: 20px;
+    color:rgb(255, 0, 0);
+}
+
+.icon3{
+    font-size: 17px;
+    color:rgb(255, 79, 79);
+}
+.texto{
+    text-align:center;
+}
+
+.color{
+    color: rgb(52, 227, 16);
+}
